@@ -19,4 +19,4 @@
 
 ## Lean Canvas
 
-![Lean Canvas UnSub](img/lean-canvas.png)
+![Lean Canvas UnSub](img/lean-canvas (3).png)
