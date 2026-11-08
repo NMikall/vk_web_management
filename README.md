@@ -536,7 +536,7 @@ POST v1/subscriptions?lang=ru
 
 ## C4: уровень 1, контекст
 
-![C4 контекст UnSub](img/c4-context.png)
+![C4 контекст UnSub](img/c4-cont.png)
 
 Синий квадрат — наша платформа учёта подписок. Зелёные квадраты — внешние системы.
 
@@ -556,7 +556,7 @@ POST v1/subscriptions?lang=ru
 
 ## C4: уровень 2, контейнеры
 
-![C4 контейнеры UnSub](img/c4-containers.png)
+![C4 контейнеры UnSub](img/c4-container.png)
 
 Внутри платформы шесть частей:
 - мобильное приложение для iOS и Android;
